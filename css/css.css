@@ -1,0 +1,245 @@
+body,html{
+	background-color: #641E16;
+}
+
+#button{
+	-webkit-box-shadow: 0 -8px 6px 8px black;
+       -moz-box-shadow: 0 -8px 6px 8px black;
+            
+}
+
+#work{
+	background-color: #17202A;
+	height:470px;
+	margin-top: 60px;
+	padding-top: 10px;
+	border: 0px solid #000;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	 box-shadow: 0px 0px 9px #ABB2B9;
+}
+ 
+   
+
+#work p{
+	color:white;
+	font-size: 2.5em;
+	font-family: 'Myriad Pro';
+	text-align: center;
+	font-style: bold;
+}
+
+#label{
+	background-color: #E5E7E9;
+	height: 73px;
+	/*margin-top: 40px;*/
+	border: 0px solid #000;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	width: 100%;
+	box-shadow: 0px 0px 9px #D5D8DC;
+	font-size: 2.5em;
+	text-align: right;
+	padding-right: 5%;
+}
+
+#first{
+	
+	font-size: 2em;
+	margin-top: 20px;
+	
+}
+
+#ac{
+	/*margin-left: 5%;
+	margin-top: 20px;*/
+	padding-left: 7%;
+	
+}
+#ac button{
+	background-color: #641E16  ;
+	color: white;
+	width:120%;
+	-webkit-box-shadow: 0 8px 6px -6px #641E16;
+	   -moz-box-shadow: 0 8px 6px -6px #641E16;
+	        box-shadow: 0 8px 6px -6px #641E16;
+}
+#ce button{
+	background-color: #641E16  ;
+	color: white;
+	width:120%;
+	-webkit-box-shadow: 0 8px 6px -6px #641E16;
+	   -moz-box-shadow: 0 8px 6px -6px #641E16;
+	        box-shadow: 0 8px 6px -6px #641E16;
+
+}
+
+#ce{
+	/*margin-left: 5%;
+	margin-top: 20px;*/
+	padding-left: 7%;
+
+}
+#divide{
+	/*margin-left: 5%;
+	margin-top: 20px;*/
+	padding-left: 7%;
+	
+}
+#divide button{
+	width:100%;
+	
+}
+#multiply{
+	/*margin-left: 5%;
+	margin-top: 20px;*/
+	padding-left: 7%;
+}
+#multiply button{
+	width:100%;
+}
+#first button{
+	border: 0px solid #000;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	
+}
+#second{
+	margin-top: 20px;
+	font-size: 2em;
+	
+}
+#second button{
+	border: 0px solid #000;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+}
+#seven{
+	padding-left: 7%;
+
+}
+#seven button{
+	width:100%;
+}
+#eight{
+	padding-left: 7%;
+}
+#eight button{
+	width:100%;
+}
+#nine{
+	padding-left: 7%;
+}
+#nine button{
+	width:100%;
+}
+#minus{
+	padding-left: 7%;
+}
+#minus button{
+	width:100%;
+}
+#fourth{
+	margin-top: 20px;
+	font-size: 2em;
+	
+}
+#fourth button{
+	border: 0px solid #000;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+}
+#one{
+	padding-left: 7%;
+
+}
+#one button{
+	width:100%;
+}
+#two{
+	padding-left: 7%;
+}
+#two button{
+	width:100%;
+}
+#three{
+	padding-left: 7%;
+}
+#three button{
+	width:100%;
+}
+
+#third{
+	margin-top: 20px;
+	font-size: 2em;
+	
+}
+#third button{
+	border: 0px solid #000;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+}
+#four{
+	padding-left: 7%;
+
+}
+#four button{
+	width:100%;
+}
+#five{
+	padding-left: 7%;
+}
+#five button{
+	width:100%;
+}
+#six{
+	padding-left: 7%;
+}
+#six button{
+	width:100%;
+}
+#plus{
+	padding-left: 7%;
+}
+#plus button{
+	width:100%;
+}
+
+#fifth{
+	margin-top: 20px;
+	font-size: 2em;
+	
+}
+#fifth button{
+	border: 0px solid #000;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+}
+#zero{
+	padding-left: 7%;
+
+}
+#zero button{
+	width:110%;
+}
+#point{
+	padding-left: 7%;
+}
+#point button{
+	width:100%;
+}
+#equal button{
+	width: 100%;
+
+}
+#equal{
+	padding-left: 7%;
+}
+button:focus {outline:0;}
+/*.q{
+	font-size: .2em;
+}*/
+small{
+	font-size: .6em;
+	padding-top: -6%;
+}
